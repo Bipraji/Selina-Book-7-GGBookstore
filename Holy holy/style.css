@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+}
+#welcome{
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    color: white;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top:0;
+    opacity: 0.83;
+    background: linear-gradient(#e1ad10 0%, #4e2e0a 100%);
+    display: table;
+    height: 100%;
+    width: 100%;
+    z-index: 9;
+}
+
+.heading{
+    font-size: 70px;
+}
+.line{
+    width:400px;
+    height: 5px;
+    background-color: black;
+    margin: 8px auto;
+   
+margin-bottom: 50px;
+}
+a{
+    font-size: 40px;
+    text-decoration: none;
+    color:lightpink;
+}
+#contents{
+    margin-top: 1000px;
+}
